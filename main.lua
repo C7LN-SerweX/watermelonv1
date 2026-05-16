@@ -1,7 +1,7 @@
 -- WATERMELON v1 - Murder Mystery 2 Script
 -- Features: ESP, Kill Aura, Teleport, Fly
 -- UI: Rayfield with Neon Pink & Neon Cyan Background
-
+-- loadstring(game:HttpGet('https://raw.githubusercontent.com/C7LN-SerweX/watermelonv1/main/main.lua', true))()
 -- Load Rayfield
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
